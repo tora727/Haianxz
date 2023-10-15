@@ -5,8 +5,8 @@
   > Nigga cut it out, what did he do?
 
   ## About Me:
-  I do stuff mostly in Shell Script and C#.
-  Most of my projects are private since I only use GitHub as a backup storage.
+  I do stuff mostly in Shell Script and C#.  
+  Most of my projects are private since I only use GitHub as a backup storage.  
   I love you! <3
 
   ## My peripherals and playstyle if you're weird or if you play osu!:
